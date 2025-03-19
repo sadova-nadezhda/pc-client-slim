@@ -21,7 +21,7 @@ return [
 
     // Parts-Catalogs settings
     'partsCatalogs' => [
-        'apiKey' => '',
+        'apiKey' => 'TWS-9CD98264-9E7B-4FAE-9585-4924FDED3C4A',
     ],
 
     /**
